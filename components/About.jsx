@@ -20,9 +20,9 @@ const About = () => {
       >
         <Image mx={10} w="20%" rounded={200} src={'/my.jpg'} alt="Image" />
         <Flex direction="column">
-          <Heading color="#60F349">Hi, I'm Arindam Roy</Heading>
+          <Heading color="#60F349">Hi, Im Arindam Roy</Heading>
           <Text fontSize="xl" my={5} color="gray.400">
-            Hey I'm Arindam Roy and i'm a Full Stack Developer . At an very
+            Hey Im Arindam Roy and im a Full Stack Developer . At an very
             early age of mine i was facinated by tech . I spent most my time
             growing up learning new things and applying them.
           </Text>
